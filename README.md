@@ -24,7 +24,7 @@ Generar plataforma donde recaude proyectos, tanto cientificos como artisticos.
 
 ![plot](..\FRONTEND\L01.png)
 
-    ![plot](../FRONTEND/D02.png)
+![plot](./FRONTEND/D02.png)
 
 ## Estado de avance:
 * [] Creacion de Estructura y mockup
