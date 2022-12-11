@@ -16,13 +16,13 @@ Generar plataforma donde recaude proyectos, tanto cientificos como artisticos.
 ## MockUp
 
 * Primera idea para tema "Dark"
-    ![plot](blog\FRONTEND\D01.png)
+![plot](blog\FRONTEND\D01.png)
 
     ![plot](.\FRONTEND\D02.png)
 
 * Primera idea para tema "Light"
 
-    ![plot](..\FRONTEND\L01.png)
+![plot](..\FRONTEND\L01.png)
 
     ![plot](../FRONTEND/D02.png)
 
