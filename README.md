@@ -22,7 +22,7 @@ Generar plataforma donde recaude proyectos, tanto cientificos como artisticos.
 
 * Primera idea para tema "Light"
 
-    ![plot](../FRONTEND/L01.png)
+    ![plot](..\FRONTEND\L01.png)
 
     ![plot](../FRONTEND/D02.png)
 
