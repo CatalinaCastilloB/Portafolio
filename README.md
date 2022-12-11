@@ -2,18 +2,28 @@
 Generar plataforma donde recaude proyectos, tanto cientificos como artisticos.
 
 ## Tabla contenido:
-1. Estructura
-    *
+1. MockUp
 2. FrontEnd 
-    *
 3. BackEnd
-    *
 4. DataBase
-    *
 
 ## Ideas de implementacion
 
 ## MockUp
+
+La pagina contendra la opcion de "dark theme" y "light theme" 
+
+#### Páginas o información que contendra:
+* Inicio
+* Contacto
+* Curriculum
+* Versiones ingles/español
+* Proyectos de developer 
+* Proyectos artisticos
+* Temas interesantes de ciencia
+* mini juegos ocultos 
+
+### Diseños iniciales
 
 * Primera idea para tema "Dark"
 
