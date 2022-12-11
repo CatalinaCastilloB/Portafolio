@@ -16,15 +16,16 @@ Generar plataforma donde recaude proyectos, tanto cientificos como artisticos.
 ## MockUp
 
 * Primera idea para tema "Dark"
-![plot](./FRONTEND/D01.png)
+    <img src="./FRONTEND/D01.png" alt="dark front end" width="200"/>
+    ![plot](./FRONTEND/D01.png)
 
-![plot](./FRONTEND/D02.png)
+    ![plot](./FRONTEND/D02.png)
 
 * Primera idea para tema "Light"
 
-![plot](./FRONTEND/L01.png)
+    ![plot](./FRONTEND/L01.png)
 
-![plot](./FRONTEND/L02.png)
+    ![plot](./FRONTEND/L02.png)
 
 ## Estado de avance:
 * [] Creacion de Estructura y mockup
