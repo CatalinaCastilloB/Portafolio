@@ -16,6 +16,7 @@ Generar plataforma donde recaude proyectos, tanto cientificos como artisticos.
 ## MockUp
 
 * Primera idea para tema "Dark"
+
     <img src="./FRONTEND/D01.png" alt="dark front end inicio" width="200"/>
     <img src="./FRONTEND/D02.png" alt="dark front end emergente" width="200"/>
 
